@@ -5,7 +5,7 @@ import os
 
 # 配置DeepSeek API参数
 DEEPSEEK_API_URL = "https://api.deepseek.com/v1/chat/completions"
-API_KEY = "sk-b858af1e85fd468984d3ed5567fcfcae"  # 替换为你的API密钥
+API_KEY = "xxxxxxxxxxxxx"  # 替换为你的API密钥
 HEADERS = {
     "Content-Type": "application/json",
     "Authorization": f"Bearer {API_KEY}"
