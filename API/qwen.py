@@ -4,7 +4,7 @@ import time
 from openai import OpenAI
 
 # 配置API密钥，如果环境变量未设置，可以直接在这里设置
-API_KEY = "sk-2fc8d5dfcd96417e97f5d9b7ef6d309d" # 替换为你的API密钥
+API_KEY = "xxxxxxxxxxxxxxxx" # 替换为你的API密钥
 
 # 创建OpenAI客户端
 client = OpenAI(
