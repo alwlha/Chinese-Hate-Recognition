@@ -50,7 +50,7 @@ def get_processed_ids(results_file):
 if __name__ == "__main__":
     # 创建 OpenAI 客户端实例
     client = openai.OpenAI(
-        api_key="sk-GnrOVKy7Hr8bK7na9aC11bC6F3B548A2A28978D89c5c3c79",
+        api_key="xxxxxxxxxxxxxxxxxx",
         base_url="https://api.bltcy.ai/v1"
     )
 
